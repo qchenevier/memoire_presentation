@@ -2,25 +2,32 @@
 title: Digitalization & Organizations
 subtitle: "Go Digital or Undergo Disruption"
 author: Quentin Chenevier
+delta: -1000
 ...
 
 # {#overview .step data-scale=5}
 
-# {#title .step data-scale=1}
+# {#title .step}
 
 <div style="text-align:center">
-![](images/peoplewithview.jpg){width=70%}
+![](images/peoplewithview.jpg){width=100%}
 Digitalization & Organizations
 </div>
 
-# C'est parti {#cestparti .step data-x=1000}
-c'est chaud
-<div class="footnote"> impress.js </div>
+# {.step}
 
-# {.step data-x=2000}
+<div style="text-align:center">
+Go digital or undergo disruption
+</div>
 
-Their limits are annoying?
+# Stimulus {.step data-x=$delta$ data-y=500 data-scale=4 style="text-align:center"}
 
-# {.step data-x=3000 data-rotate=90}
+# Actors {.step data-x=-2000 data-y=1000 data-scale=2 style="text-align:center"}
 
-Then you should try **impress.js**
+# Organizations {.step data-x=-1000 data-y=1000 data-scale=2 style="text-align:center"}
+
+# Reaction {.step data-x=1500 data-y=500 data-scale=4 style="text-align:center"}
+
+# Actors {.step data-x=1000 data-y=1000 data-scale=2 style="text-align:center"}
+
+# Organizations {.step data-x=2000 data-y=1000 data-scale=2 style="text-align:center"}
