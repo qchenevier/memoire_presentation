@@ -2,32 +2,22 @@
 title: Digitalization & Organizations
 subtitle: "Go Digital or Undergo Disruption"
 author: Quentin Chenevier
-delta: -1000
+theme: white
+parallaxBackgroundImage: images/abstractarchi_white.jpg
+parallaxBackgroundSize: "2200px 1100px"
+parallaxBackgroundHorizontal: 20
+parallaxBackgroundVertical: 10
 ...
+# Stimulus
 
-# {#overview .step data-scale=5}
+# Actors
 
-# {#title .step}
+## test
 
-<div style="text-align:center">
-![](images/peoplewithview.jpg){width=100%}
-Digitalization & Organizations
-</div>
+# Organizations
 
-# {.step}
+# Reaction
 
-<div style="text-align:center">
-Go digital or undergo disruption
-</div>
+# Actors
 
-# Stimulus {.step data-x=$delta$ data-y=500 data-scale=4 style="text-align:center"}
-
-# Actors {.step data-x=-2000 data-y=1000 data-scale=2 style="text-align:center"}
-
-# Organizations {.step data-x=-1000 data-y=1000 data-scale=2 style="text-align:center"}
-
-# Reaction {.step data-x=1500 data-y=500 data-scale=4 style="text-align:center"}
-
-# Actors {.step data-x=1000 data-y=1000 data-scale=2 style="text-align:center"}
-
-# Organizations {.step data-x=2000 data-y=1000 data-scale=2 style="text-align:center"}
+# Organizations
