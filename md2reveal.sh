@@ -1,5 +1,6 @@
 
 FILE=$1
+WINDOW_NAME=$2
 
 # generate_impress_html="pandoc --template impress-template.html -V impress-url=impress.js -s -t html4 --section-divs -o "$FILE".html "$FILE".md"
 generate_impress_html="pandoc -t revealjs -s -o "$FILE".html "$FILE".md"
@@ -8,7 +9,7 @@ echo  $(date -Iseconds): generating html: $FILE
 
 if eval $generate_impress_html; then
     if [ "$(uname -s)" != "MSYS_NT-10.0" ]; then
-        chrome_window_id=`xdotool search "(impress.*chrome)"`
+        chrome_window_id=`xdotool search --name "("$WINDOW_NAME".*chrome)"`
         if [ -z "$chrome_window_id" ]; then
             echo  $(date -Iseconds): opening in new chrome
             google-chrome "$FILE".html &
