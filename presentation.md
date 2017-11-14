@@ -87,7 +87,7 @@ Information + Decision = Value
 
 <img src="images/algorithms.jpg" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(100%)" width=50%>
 
-Knowledge = Algorithm
+Pattern detection = Knowledge = Algorithm
 
 ## Information Dynamics
 
@@ -97,18 +97,18 @@ Knowledge = Algorithm
 - information **technology** **exponential performance** and **ubiquity**
 -  **data & information**  **exponential quantity** growth, also called big data.
 
-## Machine-Generated Knowledge
+## Machines generate Knowledge
 abundance of information: **automated knowledge generation from data** = **machine learning**.
 encroaching **human knowledge workers skills**.
 
-## Human core contribution
+## Humans' core contribution: Meaning & Value
 **humans** providing **meaning & value**.
 Humans are **information producers** with more **relationships & interactions**.
 
-## Flows Constraints
-information & knowledge **transfer to humans** is constrained by **time & attention**. ==> **competition for attention**.
+## Information Flows Constraints
+Information & knowledge **transfer to humans** is constrained by **time & attention**. ==> **competition for attention**.
 
-knowledge **transfer to machines** is constrained by **design talent**. this transfer is **accelerating** thanks to **machine learning**.
+Knowledge **transfer to machines** is constrained by **design talent**. this transfer is **accelerating** thanks to **machine learning**.
 
 Simultaneously, human **physical skills** are trivialized by **automation, Robotics, 3D printing** & additive manufacturing.
 
@@ -131,6 +131,8 @@ growth of technology performance & Usage + information expansion = **creation & 
 networks are **accelerating** information speed and **pace of innovation**
 
 ## Networks positive feedback
+<img src="images/tippy_market.png" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(100%)" width=50%>
+
 network externalities are **positive feedbacks**. value propositions are increasingly based on information & networks.
 positive feedbacks create **tippy markets**: the winner takes all.
 
@@ -138,9 +140,14 @@ positive feedbacks create **tippy markets**: the winner takes all.
 Lower negative feedback in markets change their taxonomy: long-lived oligopolies are replaced by **temporal monopolies**. And such tippy markets & temporal monopolies are **increasing rate of disruption & market Change**.
 
 ## Two-sided networks
+<img src="images/bipartite_graph_alpha.png" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(50%)" width=50%>
+
 All markets are made of **two-sided networks** and can be addressed by **platforms**. Platforms are **pooling uncertainty**, which is a **cross-side positive externality**.
 
 ## Merging of networks
+<img src="images/multiplex_network_alpha.png" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(50%); margin:20px" width=15%>
+<img src="images/multiplex_network_2_alpha.png" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(50%); margin:20px" width=15%>
+
 As networks connect to each other, they create new markets and **increase substitution & rivalry**.
 not only telecommunications: all kinds of **virtual networks and platforms**.
 
