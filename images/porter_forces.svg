@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="461.32275" height="294.41599" id="svg2" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="Elements_of_Industry_Structure.svg">
+  <defs id="defs4">
+    <marker inkscape:stockid="Arrow1Lend" orient="auto" refY="0" refX="0" id="Arrow1Lend" style="overflow:visible">
+      <path id="path3795" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" transform="matrix(-0.8,0,0,-0.8,-10,0)" inkscape:connector-curvature="0"/>
+    </marker>
+    <marker inkscape:stockid="Arrow2Mend" orient="auto" refY="0" refX="0" id="Arrow2Mend" style="overflow:visible">
+      <path id="path3819" style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="scale(-0.6,-0.6)" inkscape:connector-curvature="0"/>
+    </marker>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4142136" inkscape:cx="197.54222" inkscape:cy="143.83254" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1366" inkscape:window-height="729" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-grids="true" fit-margin-top="20" fit-margin-left="20" fit-margin-right="20" fit-margin-bottom="20">
+    <inkscape:grid type="xygrid" id="grid2985" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true" originx="-120.55775px" originy="-206.512px"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-120.55775,-551.43418)">
+    <text sodipodi:linespacing="125%" id="text4854" y="691.11414" x="360.20288" style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" xml:space="preserve"><tspan style="font-size:16px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Roman No9 L Italic" y="691.11414" x="360.20288" sodipodi:role="line" id="tspan4914">Industry</tspan><tspan style="font-size:16px;text-align:center;text-anchor:middle" y="711.05023" x="360.20288" sodipodi:role="line" id="tspan4918">Rivalry</tspan></text>
+    <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path4864" d="m 440,697.36218 20,0" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" id="path4866" d="m 442,700.36218 -7,-3 7,-3 -2,3 z" style="fill:#000000;fill-opacity:1;stroke:none"/>
+    <text xml:space="preserve" style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" x="475" y="692.65021" id="text4870" sodipodi:linespacing="125%"><tspan id="tspan4874" sodipodi:role="line" x="475" y="692.65021" style="font-size:16px;text-align:start;text-anchor:start">Threat</tspan><tspan sodipodi:role="line" x="475" y="712.71411" style="font-size:16px;text-align:start;text-anchor:start" id="tspan3200">of <tspan style="font-style:italic;-inkscape-font-specification:Nimbus Roman No9 L Italic" id="tspan3202">Substitutes</tspan></tspan></text>
+    <g transform="matrix(0,-1,1,0,-82.362178,1077.3622)" id="g4876">
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path4878" d="m 460,442.36218 20,0" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" id="path4880" d="m 462,445.36218 -7,-3 7,-3 -2,3 z" style="fill:#000000;fill-opacity:1;stroke:none"/>
+    </g>
+    <text sodipodi:linespacing="125%" id="text4882" y="582.36218" x="360.04538" style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" xml:space="preserve"><tspan style="font-size:16px;text-align:center;text-anchor:middle" y="582.36218" x="360.04538" sodipodi:role="line" id="tspan4884">Bargaining Power of <tspan style="font-style:italic;-inkscape-font-specification:Nimbus Roman No9 L Italic" id="tspan3192">Suppliers</tspan></tspan></text>
+    <g transform="matrix(-1,0,0,1,740,255)" id="g4886">
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path4888" d="m 460,442.36218 20,0" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" id="path4890" d="m 462,445.36218 -7,-3 7,-3 -2,3 z" style="fill:#000000;fill-opacity:1;stroke:none"/>
+    </g>
+    <text sodipodi:linespacing="125%" id="text4892" y="692.65021" x="245" style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" xml:space="preserve"><tspan style="font-size:16px;text-align:end;text-anchor:end" y="692.65021" x="245" sodipodi:role="line" id="tspan4896">Threat</tspan><tspan style="font-size:16px;text-align:end;text-anchor:end" y="712.71411" x="245" sodipodi:role="line" id="tspan3184">of <tspan style="font-style:italic;-inkscape-font-specification:Nimbus Roman No9 L Italic" id="tspan3190">New Entrants</tspan></tspan></text>
+    <g id="g4898" transform="matrix(0,1,1,0,-82.362178,317.36218)">
+      <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 460,442.36218 20,0" id="path4900" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+      <path style="fill:#000000;fill-opacity:1;stroke:none" d="m 462,445.36218 -7,-3 7,-3 -2,3 z" id="path4902" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+    </g>
+    <text xml:space="preserve" style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" x="360.04538" y="822.36218" id="text4904" sodipodi:linespacing="125%"><tspan id="tspan4906" sodipodi:role="line" x="360.04538" y="822.36218" style="font-size:16px;text-align:center;text-anchor:middle">Bargaining Power of <tspan style="font-style:italic;-inkscape-font-specification:Nimbus Roman No9 L Italic" id="tspan3194">Buyers</tspan></tspan></text>
+    <path sodipodi:type="arc" style="fill:none;stroke:#000000;stroke-opacity:1" id="path4908" sodipodi:cx="355" sodipodi:cy="707.36218" sodipodi:rx="60" sodipodi:ry="60" d="m 415,707.36218 c 0,33.13709 -26.86292,60 -60,60 -33.13708,0 -60,-26.86291 -60,-60 0,-33.13708 26.86292,-60 60,-60 33.13708,0 60,26.86292 60,60 z" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,609.15769,-53.841322)"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:none" d="m 398.89087,739.08148 7.07107,-2.82843 -2.82843,7.07107 -0.7071,-3.53553 z" id="path4920" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" id="path4922" d="m 321.10913,655.64288 -7.07107,2.82843 2.82843,-7.07107 0.7071,3.53553 z" style="fill:#000000;fill-opacity:1;stroke:none"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:none" d="m 401.7193,658.47131 -2.82843,-7.07107 7.07107,2.82843 -3.53553,0.7071 z" id="path4924" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" id="path4926" d="m 311.91674,738.37437 7.07107,2.82843 -2.82843,-7.07107 -0.70711,3.53554 z" style="fill:#000000;fill-opacity:1;stroke:none"/>
+  </g>
+</svg>
