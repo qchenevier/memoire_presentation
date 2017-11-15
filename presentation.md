@@ -3,7 +3,7 @@ title: Digitalization & Organizations
 subtitle: "Go Digital or Undergo Disruption"
 author: Quentin Chenevier
 theme: white
-parallaxBackgroundImage: images/peoplewithview_white.jpg
+parallaxBackgroundImage: presentation_background.jpg
 parallaxBackgroundSize: "1900px 1255px"
 parallaxBackgroundHorizontal: 20
 parallaxBackgroundVertical: 10
@@ -142,9 +142,13 @@ Porter's **5 competitive forces**
 
 ## Networks dynamics
 
-## Networks growth fueling Information expansion
-growth of technology performance & Usage + information expansion = **creation & expansion of networks** = new **market dynamics**.
-networks are **accelerating** information speed and **pace of innovation**
+## Networks' symbiose with Information expansion
+Growth of technology performance, usage & information expansion:
+
+- **creation & expansion of networks**
+- new **market dynamics**.
+
+Networks are **accelerating** information speed and **pace of innovation**.
 
 ## Networks' positive feedback
 <img src="images/tippy_market.png" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(100%)" width=40%>
@@ -210,7 +214,7 @@ Reevaluate your assets to find **information-based assets** that **complement** 
 
 Identify activities to **create information value**, such as **building connections** to your **user base**.
 
-Then, Choose a way to **capture information value**
+Then, choose a way to **capture information value**.
 
 ## Transform your Business model
 
@@ -275,19 +279,19 @@ As we have seen, value of information comes from decision-making: the goal of fo
 
 ## Listening
 
-Communication is now widespread and the ability to listen to is one of the most overlooked skills in modern organizations.
+Communication is now widespread and the ability to listen is **one of the most overlooked skills** in modern organizations.
 
 2-way communication now prevails over 1-way broadcast. Yet many people have poor listening skills.
 
 ## Learning & Experimenting
 
-The ability to learn and experiment has been stiffled in many organizations in order to avoid unnecessary waste.
+The ability to learn and **experiment has been stiffled** in many organizations in order to avoid unnecessary waste.
 
 As a result, failure of an experiment is often seen as a bad thing. Yet, it is now possible to design cheap experiments to learn. Most people don't feel safe enough in their organizations to propose such experiments.
 
 ## Open mindedness
 
-Many organizations have emphasized the power of experts and risk management. However, this tends to naturally increase refusal of operations' changes and of new ideas.
+Many organizations have emphasized the **power of experts and risk management**. However, this tends to naturally increase refusal of operations' changes and of new ideas.
 
 A quickly changing environment requires having people, while still having some expertise, which are accepting change & are able to make powerful cognitive associations.
 
@@ -350,3 +354,45 @@ Leaders should **unlock slack resources** to get new projects going.
 By encouraging learning & autonomy behaviours among their employees, Leaders have the opportunity of gaining time and sparing transformation efforts by **letting employees decide what is the optimal structure** to operate.
 
 This implies having the ability to challenge benevolently the status quo if a sub-optimal structure is chosen.
+
+# Conclusion
+
+## Stimulus
+
+Increase of information in speed, quantity, complexity and value, since several decades.
+
+Creation and intensification networks which are changing the dynamics of organizations and their environment.
+
+## Response of Organizations
+
+Change their structure by **becoming networks** themselves, built on a strong **information management backbone**.
+
+Reassess their assets to find those relevant to the new environment.
+
+Have the opportunity to **improve in all three value disciplines**.  
+
+## Response of Actors
+
+Change of mindset to become **better at information transmitting, processing and decision-making**.
+
+Increase the **quality and the quantity of the decisions**.
+
+Leadership focused on **encouraging learning & information flowing** and more focused on **coaching & envisioning**.
+
+## Where are we ?
+
+Digital organizations have already discovered all those principles.
+
+Information revolution hasn't reached its apogee: additive manufacturing, internet of things, blockchain, CRISPR-CAS9 genetic engineering, transport automation...
+
+**This technological revolution might be stronger** and longer than the other technological revolutions.
+
+## Humanity is levelling up
+
+<img src="images/level_up.gif" style="border:0; box-shadow: 0 0 0; background:rgba(0,0,0,0); filter:grayscale(70%);" width=50%>
+
+And it might be gaining several levels at once.   
+
+## Thank you
+
+:)
